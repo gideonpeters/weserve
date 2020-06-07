@@ -1,6 +1,6 @@
 # weserve
 
-A new Flutter project.
+A mobile cleaning service for WeServe.
 
 ## Getting Started
 
